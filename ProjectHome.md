@@ -1,0 +1,1 @@
+Jabber client, written in c# with using agsXMPP library
